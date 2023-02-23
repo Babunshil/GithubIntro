@@ -9,4 +9,4 @@ lemon
 papaya
 carrot
 jackfruit
-coconut
+English coconut
