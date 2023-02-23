@@ -8,3 +8,4 @@ guava
 lemon
 papaya
 carrot
+jackfruit
